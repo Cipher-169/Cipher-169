@@ -20,4 +20,3 @@ Mathematics has always fascinated me, and I believe it connects naturally with p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E5F8E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henriqueti/)
 [![Instagram](https://img.shields.io/badge/Instagram-4A90C4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.henriqueish/)
-[![GitHub](https://img.shields.io/github/stars/SEU-USUARIO?color=6EA8D8&style=for-the-badge&label=STARS&logo=github)](https://github.com/SEU-USUARIO?tab=repositories)
