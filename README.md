@@ -20,7 +20,7 @@ Mathematics has always fascinated me, and I believe it connects naturally with p
 
 ### 🚀 Projects
 
-- **[hub-animes](https://github.com/Cipher-169/hub-animes)** — personal anime tracker integrated with the AniList API.
+- **[hub-animes](https://github.com/Cipher-169/hub-pessoal)** — personal anime tracker integrated with the AniList API.
 - **[hub-series-filmes](https://github.com/Cipher-169/hub-series-filmes)** — TV shows and movies tracker, built with the Trakt API and Firebase.
 - **[catalogo-loja](https://github.com/Cipher-169/catalogo-loja)** — digital catalog with an admin panel for a real store.
 
